@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 
-🎓 Soon to graduate with a Bachelor's of Science in Computer Science. (July 2022)
-
-👩‍💻 Have worked on several projects involving frontend and backend technologies using Java, Python, HTML, CSS, and JavaScript.
 
 
 
